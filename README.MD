@@ -53,7 +53,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [Link da live no Youtube](https://www.youtube.com)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- [Editor de [áudio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
 ## 🛠️ Instruções de execução
@@ -76,24 +76,15 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/miguelarchangel>
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
+     
     </a>
     &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
-
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
