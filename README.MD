@@ -70,8 +70,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
 
-    &nbsp&nbsp&nbsp
-    <a 
+     
         href="https://github.com/miguelarchangel>
 https://www.linkedin.com/in/miguel-arcanjo-de-oliveira-sousa-254508366/
         GitHub
