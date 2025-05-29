@@ -73,6 +73,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/miguelarchangel>
+https://www.linkedin.com/in/miguel-arcanjo-de-oliveira-sousa-254508366/
         GitHub
     </a>
     &nbsp;|&nbsp;
